@@ -1,1 +1,0 @@
-print('Esto son funciones')
